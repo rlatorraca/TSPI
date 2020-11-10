@@ -7,3 +7,5 @@ U
 %src/test/java/testes/NumerosTest.java,a/1/a15300ad461500afb41d73b7385a8d02694b9a5b
 Y
 )src/test/java/testes/LojinhasAPITest.java,9/2/9229fad4c9a2628fc9644463fb41324327e28a68
+Y
+)src/test/java/testes/LojinhasWEBTest.java,e/1/e16fd4a4de8c5447b3ed8d0dabab697011acdc3b

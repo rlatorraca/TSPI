@@ -35,7 +35,7 @@ public class LojinhasAPITest {
                 .given()
                     .header("token", token)
                 .when()
-                    .get("produto/70")
+                    .get("produto/editar/7161")
                 .then()
                     .assertThat()
                         .statusCode(200)
